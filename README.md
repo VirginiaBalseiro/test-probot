@@ -13,7 +13,7 @@ Each user will have to go through the following steps in order to complete their
 5 - In this issue you will find instructions with the tasks you need to complete. __Have fun!__ 
 
 
-#Contributors' names:
+# Contributors' names:
 
 -
 -
