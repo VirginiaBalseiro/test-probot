@@ -11,3 +11,14 @@ Each user will have to go through the following steps in order to complete their
 4 - A issue with the title "Welcome (Your name)" will be created and assigned to you. You can either follow the link in your e-mail confirmation or look for the issue by going to the original repo (not your fork, but the repo where you started off) and clicking the Issues tab. There you can filter by Assignee -> Your name.
 
 5 - In this issue you will find instructions with the tasks you need to complete. __Have fun!__ 
+
+
+#Contributors' names:
+
+-
+-
+-
+-
+-
+-
+-
