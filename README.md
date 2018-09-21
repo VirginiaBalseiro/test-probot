@@ -1,5 +1,4 @@
 ## User Steps
-Feel free to use this User steps guide as the text in your "get started" issue.
 
 Each user will have to go through the following steps in order to complete their welcome journey successfully:
 
