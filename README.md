@@ -16,7 +16,7 @@ Each user will have to go through the following steps in order to complete their
 ### Contributors' names:
 
 - Test User
--
+- Test User Two
 -
 -
 -
