@@ -18,7 +18,9 @@ Each user will have to go through the following steps in order to complete their
 - Test User
 - Test User Two
 - Enzo
+- Ilona Budapesti
 -
 -
 -
--
+
+This bot was created by Virginia Balseiro (GitHub, LinkedIn) at the request and specifications of Ilona Budapesti ([GitHub](http://github.com/ilonabudapesti/), [LinkedIn](http://linkedin.com/in/ilonabudapesti) as part of Volunteer Cohort #2 of 1 Million Women To Tech ([GitHub](https://github.com/1millionwomentotech), [Learn to Code](https://memberportal.1millionwomentotech.com/diy), [Mentor](https://github.com/1millionwomentotech/toolkitten/blob/master/howto/become-mentor.md)) a Silicon Valley based global educational 501(c)3 recognized nonprofit with the mission to offer free coding education to 1 million women and enbies by 2020.
